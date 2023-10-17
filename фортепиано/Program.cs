@@ -15,7 +15,7 @@ internal class Program
         Console.WriteLine("  ");
 
         Console.WriteLine("F1 и F2  переключение  октав.");
-        Console.WriteLine("С d по l  белые , с r по i - чёрные.");
+        Console.WriteLine("С q по u  белые , с a по g - чёрные.");
         Console.WriteLine("  ");
         Console.WriteLine("1 октава.");
 
